@@ -1,5 +1,6 @@
 # CV_BimaRahmadhani
 # Personal CV Website
+https://imdhani795.github.io/CV_BimaRahmadhani/
 
 A personal CV website built entirely using HTML to showcase my professional profile, technical skills, certifications, educational background, and project experiences. This website was designed as a digital portfolio to present my background in Informatics, highlight my abilities in web development, and demonstrate my interest in technology and continuous learning.
 
